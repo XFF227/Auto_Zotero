@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+config.py
+data/cache.json
+data/seen_ids.json
+data/usage_stats.json
+data/arxiv_cache.json
+
+output/deep_notes/*.md
+output/shallow_notes/*.md
+output/daily_summary.md
+pdfs/*.pdf
