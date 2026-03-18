@@ -15,8 +15,9 @@
 - 支持按 `TARGET_JOURNALS` 限定 `PubMed`
 - 支持 DOI 直接导入
 - 标题筛选仅使用标题，不读取 PDF 全文
-- 浅摘要与 deep summary 仅使用 `title + abstract`
-- 选中文章后可直接保存到 Zotero，并尽量附带 PDF
+- 浅摘要仅使用 `title + abstract`
+- deep summary 使用全文pdf文件
+- 选中文章后可直接保存到 Zotero，并尽量附带 PDF, 可手动在zotero里添加pdf
 - shallow / deep 页面优先从本地 Zotero library 读取
 
 ## 目录结构
